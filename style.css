@@ -13,10 +13,23 @@ p{
 	color: white;
 	margin-top: auto;
 	margin-bottom: auto;
-	margin-right: 20%;
+	margin-right: 25%;
 	margin-left: 25%;
 	font-size: 200%;
 	font-family: "Palatino Linotype", "Book Aquatica", Palatino, serif;
+}
+
+ul 
+{
+	text-align: center;	
+	list-style-type: none;
+}
+
+li
+{
+	color: white;
+	font-size: 200%;
+	text-decoration: none;
 }
 
 /* from w3school or something */
