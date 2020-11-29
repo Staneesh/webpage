@@ -19,13 +19,13 @@ p{
 	font-family: "Palatino Linotype", "Book Aquatica", Palatino, serif;
 }
 
-ul 
+.fileslist ul 
 {
 	text-align: center;	
 	list-style-type: none;
 }
 
-li
+.fileslist li
 {
 	color: white;
 	font-size: 200%;
