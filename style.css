@@ -23,6 +23,7 @@ p{
 {
 	text-align: center;	
 	list-style-type: none;
+	padding-left: 0;
 }
 
 .fileslist li
@@ -30,6 +31,16 @@ p{
 	color: white;
 	font-size: 200%;
 	text-decoration: none;
+	display: inline-block;
+	background-color: #03981D;
+	border: 2px solid #4CAF50;
+}
+
+.fileslist ul li a
+{
+	font-size: 50%;
+	text-decoration: none;
+	color: blue;
 }
 
 /* from w3school or something */
