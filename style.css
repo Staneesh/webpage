@@ -19,6 +19,16 @@ p{
 	font-family: "Palatino Linotype", "Book Aquatica", Palatino, serif;
 }
 
+li{
+	color: white;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 25%;
+	margin-left: 25%;
+	font-size: 200%;
+	font-family: "Palatino Linotype", "Book Aquatica", Palatino, serif;
+}
+
 .fileslist ul 
 {
 	text-align: center;	
