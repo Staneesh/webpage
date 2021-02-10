@@ -19,7 +19,7 @@ p{
 	font-family: "Palatino Linotype", "Book Aquatica", Palatino, serif;
 }
 
-li{
+.normal li{
 	color: white;
 	margin-top: auto;
 	margin-bottom: auto;
