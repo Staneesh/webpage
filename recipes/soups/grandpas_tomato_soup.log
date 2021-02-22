@@ -1,0 +1,106 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.2.8)  22 FEB 2021 15:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**grandpas_tomato_soup.tex
+(./grandpas_tomato_soup.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/cuisine/cuisine.sty
+Package: cuisine 2014/06/26 v0.7 recipe typesetting
+
+(/usr/share/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip49
+\L@UnitsRaiseTextstyle=\skip50
+\L@UnitsRaiseScriptstyle=\skip51
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+\c@r@cipenumber=\count185
+\c@st@pnumber=\count186
+\c@ingr@dnumber=\count187
+\R@cipeWidth=\skip52
+\R@cipeNumberWidth=\skip53
+\R@cipeTitleWidth=\skip54
+\R@cipeServingsWidth=\skip55
+\R@cipeTandSWidth=\skip56
+\R@cipeOutdent=\skip57
+\R@cipeIngQUSpace=\skip58
+\R@cipeIngUISpace=\skip59
+\R@cipeTitleVerticalAdjustTop=\skip60
+\R@cipeTitleVerticalAdjustBot=\skip61
+\R@cipeIngredientWidth=\skip62
+\R@cipeQuantityWidth=\skip63
+\R@cipeUnitsWidth=\skip64
+\R@cipeQandUWidth=\skip65
+\R@cipeIandUWidth=\skip66
+\R@cipeIQUWidth=\skip67
+\R@cipeSingleIngWidth=\skip68
+\R@cipeMethodWidth=\skip69
+\St@pNumberWidth=\skip70
+\R@cipeStepWidth=\skip71
+\st@pingrbox=\box47
+\st@pingrtmpbox=\box48
+\titl@tmpbox=\box49
+\st@pIQUbox=\box50
+\st@pmethodbox=\box51
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count188
+\l__pdf_internal_box=\box52
+)
+(./grandpas_tomato_soup.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./grandpas_tomato_soup.au
+x) ) 
+Here is how much of TeX's memory you used:
+ 585 strings out of 479383
+ 9720 string characters out of 5875831
+ 295209 words of memory out of 5000000
+ 17768 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,10n,72p,196b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on grandpas_tomato_soup.pdf (1 page, 19702 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
